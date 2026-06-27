@@ -11,7 +11,7 @@ let adfi=document.getElementById("fil");
 let adedits=document.getElementById("edits");
 let clean=document.getElementById("cleared");
 
-let taks=JSON.parse(localStorage.getItem("taks"));
+//let taks=JSON.parse(localStorage.getItem("taks"));
 
 clean.addEventListener("click",function(){
    list.innerText="";
@@ -87,7 +87,7 @@ let editElement;
 
 
 
-////let taks=[];
+let taks=[];
 adbtn.addEventListener("click",function(){
 
 if (editElement) {
