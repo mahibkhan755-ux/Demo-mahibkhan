@@ -1,0 +1,213 @@
+    
+
+body:hover{
+    background-color: rgb(49, 28, 83);
+}
+body{
+    margin: 40px;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(2, 24, 2);
+    color: white;
+}
+     #box:hover{
+        background-color: crimson;
+        color: black;
+     }
+#box{
+    margin: 10px;
+    padding: 24px;
+    font-weight: 800;
+    border-radius: 14px;
+    border: solid black;
+    border: none;
+    background-color: white;
+    color: black;
+    width: 480px;
+    
+};
+#box1{
+    background-color: crimson;
+    color: black;
+    padding: 12px;
+    
+    
+}
+#add:hover{
+    background-color: goldenrod;
+    color: black;}
+    
+#add{
+    padding: 17px;
+    border: solid black;
+    border-radius: 40px;
+    border: none;
+    margin: 10px;
+    background-color: black;
+    color:white;
+    font-weight: 900;
+    font-size: larger;
+    text-align: center;
+    
+    
+}
+#del:hover{
+    background-color: rgb(236, 63, 10);
+    color: black;}
+
+#del{
+
+ padding: 17px;
+    border: solid black;
+    border-radius: 40px;
+    border: none;
+    margin: 10px;
+    background-color: red;
+    color:white;
+    font-weight: 900;
+    font-size: larger;
+    text-align: center;
+    width: 130px;
+}
+#comb:hover{
+    background-color: rgb(5, 24, 6);
+    color: rgb(180, 174, 174);}
+#comb{
+    background-color: green;
+    color: white;
+     padding: 17px;
+    border: solid black;
+    border-radius: 40px;
+    border: none;
+    margin: 10px;
+
+    font-weight: 900;
+    font-size: larger;
+    text-align: center;
+};
+#pand{
+    border-radius: 17px;
+    border: solid black;
+    padding: 17px;
+    margin: 10px;
+}
+#mai:hover{
+    background-color: rgb(53, 12, 12);
+    color: rgb(124, 114, 114);
+}
+#mai{
+    width: 420px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 17px;
+    height: 40px;
+    background-color: skyblue;
+    color: black;
+    font-size: larger;
+    font-weight: 900;
+    border: none;
+}
+#pan:hover{
+    background-color: goldenrod;
+    color: black;
+}
+#pan{
+     background-color: black;
+    color: white;
+     padding: 17px;
+    border: solid black;
+    border-radius: 40px;
+    border: none;
+    margin: 10px;
+
+    font-weight: 900;
+    font-size: larger;
+    text-align: center;
+}
+#cafi:hover{
+    background-color: goldenrod;
+    color: black;
+}
+#cafi{
+       background-color: black;
+    color: white;
+     padding: 17px;
+    border: solid black;
+    border-radius: 40px;
+    border: none;
+    margin: 10px;
+
+    font-weight: 900;
+    font-size: larger;
+    text-align: center;
+
+}
+#fil:hover{
+    background-color: goldenrod;
+    color: black;
+}
+#fil{
+     background-color: black;
+    color: white;
+     padding: 17px;
+    border: solid black;
+    border-radius: 40px;
+    border: none;
+    margin: 10px;
+
+    font-weight: 900;
+    font-size: larger;
+    text-align: center;
+};
+
+
+#input1{
+    width: 420px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 17px;
+    height: 40px;
+    background-color: rgb(230, 184, 33);
+    color: white;
+    font-size: larger;
+    font-weight: 900;
+}
+#edits:hover{
+    background-color: goldenrod;
+    color: black;
+}
+
+#edits{
+      background-color: black;
+    color: white;
+     padding: 17px;
+    border: solid black;
+    border-radius: 40px;
+    border: none;
+    margin: 10px;
+
+    font-weight: 900;
+    font-size: larger;
+    text-align: center;
+}
+#cleared:hover{
+    background-color: goldenrod;
+    color: black;
+}
+#cleared{
+      background-color: black;
+    color: white;
+     padding: 17px;
+    border: solid black;
+    border-radius: 40px;
+    border: none;
+    margin: 10px;
+
+    font-weight: 900;
+    font-size: larger;
+    text-align: center;
+
+};
